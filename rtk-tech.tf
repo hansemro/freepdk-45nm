@@ -1,13 +1,13 @@
 
 Technology	{
 		name				= ""
-		date				= "Dec 23 2016"
+		date				= "Jul  6 2022"
 		dielectric			= 3.45e-05
 		unitTimeName			= "ns"
 		timePrecision			= 1000
 		unitLengthName			= "micron"
 		lengthPrecision			= 2000
-		gridResolution			= 10
+		gridResolution			= 5
 		unitVoltageName			= "V"
 		voltagePrecision		= 1000000
 		unitCurrentName			= "mA"

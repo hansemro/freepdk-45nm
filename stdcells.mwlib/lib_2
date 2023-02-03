@@ -53,6 +53,7 @@ DLH_X2 unit
 DLL_X1 unit
 DLL_X2 unit
 FA_X1 unit
+WELLTAP_X1 unit
 FILLCELL_X1 unit
 FILLCELL_X16 unit
 FILLCELL_X2 unit
